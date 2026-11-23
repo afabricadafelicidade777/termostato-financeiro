@@ -1,8 +1,10 @@
 HOMENS DE CORAGEM — TERMOSTATO FINANCEIRO
-Versão de testes: 7 dias desbloqueados.
-Botões de Instagram e testemunho WhatsApp. Sem Facebook nem botão de partilha da aplicação.
-Ícone: gráfico de dinheiro em crescimento.
-Direitos reservados: uso exclusivo da comunidade Homens de Coragem.
-Publicar os ficheiros na raiz do repositório GitHub/Vercel.
-Nota: a restrição de partilha é uma condição de utilização; um link público não impede tecnicamente o acesso por pessoas externas.
-Conteúdos originais inspirados em temas gerais de mentalidade financeira, crenças emocionais, planeamento e literacia financeira.
+Versão com desbloqueio programado (Portugal continental):
+Dia 1: 24/11/2026 às 11h11; Dia 2: 25/11; Dia 3: 26/11; Dia 4: 27/11; Dia 5: 28/11; Dia 6: 29/11; Dia 7: 30/11, todos às 11h11.
+
+Para publicar: extrair os ficheiros na raiz do repositório GitHub e publicar na Vercel.
+A aplicação precisa de HTTPS para instalação e notificações.
+
+AVISOS: O botão pede autorização de notificações. Esta versão envia avisos apenas quando a aplicação está aberta ou volta a ser aberta. Notificações push automáticas com a app completamente fechada exigem serviço de backend/push, não incluído neste ZIP.
+
+O botão de instalação fica visível na primeira página. Quando a instalação direta não está disponível, são mostradas instruções para Android/iPhone.
