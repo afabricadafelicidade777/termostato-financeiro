@@ -1,15 +1,8 @@
 HOMENS DE CORAGEM — TERMOSTATO FINANCEIRO
-
-Publicação simples na Vercel:
-1. Extrai o ZIP.
-2. Cria um repositório GitHub e envia os ficheiros que estão dentro da pasta termostato-financeiro (index.html, manifest.webmanifest, sw.js e os ícones) para a raiz.
-3. Na Vercel, importa o repositório. Framework Preset: Other. Build Command: vazio. Output Directory: vazio.
-4. Faz Deploy. Abre o link HTTPS no Chrome Android ou Safari iPhone.
-5. Na app, abre Mais > Instalar aplicação. Em iPhone, usa Safari > Partilhar > Adicionar ao ecrã principal.
-
-O treino desbloqueia um dia de cada vez, à meia-noite local, a partir do dia de início de cada pessoa.
-Os dados ficam guardados no navegador, não são sincronizados entre dispositivos e podem ser apagados no menu Mais.
-O Facebook abre uma pesquisa porque o endereço oficial da página não foi fornecido.
-Esta ferramenta não substitui aconselhamento financeiro ou cuidados de saúde mental.
-
-INSTALAÇÃO: botão na página inicial e em Mais. No Android, instalação direta quando permitida; caso contrário abre guia. iPhone: guia Safari. Publicar em HTTPS na Vercel.
+Versão de testes: 7 dias desbloqueados.
+Botões de Instagram e testemunho WhatsApp. Sem Facebook nem botão de partilha da aplicação.
+Ícone: gráfico de dinheiro em crescimento.
+Direitos reservados: uso exclusivo da comunidade Homens de Coragem.
+Publicar os ficheiros na raiz do repositório GitHub/Vercel.
+Nota: a restrição de partilha é uma condição de utilização; um link público não impede tecnicamente o acesso por pessoas externas.
+Conteúdos originais inspirados em temas gerais de mentalidade financeira, crenças emocionais, planeamento e literacia financeira.
