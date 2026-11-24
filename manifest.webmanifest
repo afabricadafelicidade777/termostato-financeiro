@@ -1,7 +1,7 @@
 {
-  "name": "Homens de Coragem — Termostato Financeiro",
-  "short_name": "Termostato €",
-  "description": "Treina a tua mente e transforma a tua relação com o dinheiro em 7 dias.",
+  "name": "Mata a Escassez — Homens de Coragem",
+  "short_name": "Mata a Escassez",
+  "description": "Liberta a tua riqueza. 7 dias para elevares o teu termóstato financeiro.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
